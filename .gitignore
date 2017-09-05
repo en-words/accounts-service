@@ -17,6 +17,7 @@ target/
 .mvn
 mvnw
 mvnw.cmd
+target
 
 ### NetBeans ###
 nbproject/private/
