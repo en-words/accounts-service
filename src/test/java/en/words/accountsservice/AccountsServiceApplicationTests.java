@@ -18,6 +18,4 @@ public class AccountsServiceApplicationTests {
 		Assert.assertEquals("Hello World!!!", greet);
 	}
 
-
-
 }
